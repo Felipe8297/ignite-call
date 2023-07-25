@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center" margin-top="25px" >
-  ![Capa](https://github.com/Felipe8297/ignite-call/assets/60430412/f479e596-7bf8-4287-b7be-b8608b7aae6e)  
+  ![Capa](https://github.com/Felipe8297/ignite-call/assets/60430412/328a44f2-83cc-459d-97ea-426816956384)
+
 </p>
 ___
 
