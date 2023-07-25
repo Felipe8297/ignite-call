@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center" margin-top="25px" >
-  ![Capa](https://github.com/Felipe8297/ignite-call/assets/60430412/328a44f2-83cc-459d-97ea-426816956384)
-
 </p>
 ___
 
@@ -43,7 +41,7 @@ This project was developed with the following technologies:
 - [Radix-u](https://www.radix-ui.com/)
 - [Axios](https://www.axios.com/)
 - [Prisma](https://www.prisma.io/)
-- [@ignite-ui-exo/react](https://www.npmjs.com/package/@ignite-ui-exo/docs)
+
 - [React-query](https://react-query-v3.tanstack.com/)
 - [Dayjs](https://day.js.org/)
 - [Googleapis](https://www.npmjs.com/package/googleapis)
