@@ -3,14 +3,7 @@
 </h1>
 
 <p align="center" margin-top="25px" >
-  <img alt="GitHub Language Count" src=".github/capa.png" />
-
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/exodogurgel/ignite-call" />
-
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/exodogurgel/ignite-call" />
-
-  <img alt="Github License" src="https://img.shields.io/github/license/exodogurgel/ignite-call" />
-  
+  ![Capa](https://github.com/Felipe8297/ignite-call/assets/60430412/f479e596-7bf8-4287-b7be-b8608b7aae6e)  
 </p>
 ___
 
