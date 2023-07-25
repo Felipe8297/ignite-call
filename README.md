@@ -2,31 +2,31 @@
   Ignite Call
 </h1>
 
-<p align="center" margin-top="25px" >
-</p>
+![Capa](https://github.com/Felipe8297/ignite-call/assets/60430412/965c55f1-89e5-4e1e-a443-96f134b160ee)
+
 ___
 
-## 💻 About
+## 💻 Sobre
 
-Application that connects your calendar and allows people to book appointments in their free time. The Design System was used creating in the previous project.
+Aplicativo que conecta seu calendário e permite que as pessoas agendem compromissos em seus horários livres. O Sistema de Design foi utilizado na criação do projeto anterior.
 
-- [x] Authenticated routes in Next.js.
-- [x] Authentication with Next Auth.
-- [x] Validation with zod.
-- [x] Integration with Google Calendar
-- [x] Integration with Design System
+- [x] Rotas autenticadas no Next.js.
+- [x] Autenticação com Next Auth.
+- [x] Validação com zod.
+- [x] Integração com o Google Calendar.
+- [x] Integração com o Sistema de Design.
 
-Although there are few features, concepts such as:
-- States
-- State immutability
-- Lists and keys in ReactJS
-- Properties
-- Componentization
+Embora haja poucos recursos, conceitos como:
+- Estados
+- Imutabilidade de estado
+- Listas e chaves no ReactJS
+- Propriedades
+- Componentização
 ___
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias Utilizadas
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Next](https://nextjs.org/)
@@ -41,40 +41,45 @@ This project was developed with the following technologies:
 - [Radix-u](https://www.radix-ui.com/)
 - [Axios](https://www.axios.com/)
 - [Prisma](https://www.prisma.io/)
-
 - [React-query](https://react-query-v3.tanstack.com/)
 - [Dayjs](https://day.js.org/)
 - [Googleapis](https://www.npmjs.com/package/googleapis)
 ___
 
 ## 🔖 Layout
-You can view the layout of the project via the link below:
+Você pode visualizar o layout do projeto através do link abaixo:
 
 - [Layout Web](https://www.figma.com/community/file/1161274296921389678)
 
 ## Web
-<img alt="" src=".github/ignite-call.gif"/>
+![4](https://github.com/Felipe8297/ignite-call/assets/60430412/0a945d19-4ef0-4446-8da4-2e9e683cfa8c)
+![4](https://github.com/Felipe8297/ignite-call/assets/60430412/133ef304-8b62-4f56-a0df-1af9cb52de44)
+![4](https://github.com/Felipe8297/ignite-call/assets/60430412/d3c758ca-7da9-4b5e-968e-25b38eeff0b8)
+![4](https://github.com/Felipe8297/ignite-call/assets/60430412/7fd18ead-70ca-4467-a629-52f683249f1d)
+![3](https://github.com/Felipe8297/ignite-call/assets/60430412/d954ae06-bfba-4ba4-af6d-be94b95ba71a)
+![3](https://github.com/Felipe8297/ignite-call/assets/60430412/98e690c4-3e30-4c94-87b4-1fbe860536da)
+![3](https://github.com/Felipe8297/ignite-call/assets/60430412/476ba043-81ce-4071-ad8d-0af54abaada8)
 ___
 
-## 🚀 How it works
+## 🚀 Como funciona
 
-### Pre-requisites
-Before you begin, you will need to have the following tools installed on your machine: [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/). In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+### Pré-requisitos
+Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina: [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/). Além disso, é bom ter um editor para trabalhar com o código como [VSCode] (https://code.visualstudio.com/)
 
-#### 🧭 Running the web application (Frontend)
+#### 🧭 Executando o aplicativo web (Frontend)
 
 ```bash
-# Clone this repository
-$ git clone git@github.com:exodogurgel/ignite-call.git
+# Clone este repositório
+$ git clone https://github.com/Felipe8297/ignite-call.git
 
-# Access the project folder in your terminal
+# Acesse a pasta do projeto em seu terminal
 $ cd ignite-call
 
-# Install the dependencies
+# Instale as dependências
 $ npm install
 
-# Run the application in development mode
+# Execute o aplicativo em modo de desenvolvimento
 $ npm run dev
 
-# The application will open on the port: 3000 - go to http://localhost:3000
+# O aplicativo será aberto na porta: 3000 - vá para http://localhost:3000
 ```
