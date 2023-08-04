@@ -20,6 +20,8 @@ import { buildNextAuthOptions } from '../../api/auth/[...nextauth].api'
 import { Container, Header } from '../styles'
 import { FormAnnotation, ProfileBox } from './styles'
 
+// testing
+
 const updateProfileSchema = z.object({
   bio: z.string(),
 })
